@@ -1,0 +1,2 @@
+# StaffPlugin
+Only for staff
